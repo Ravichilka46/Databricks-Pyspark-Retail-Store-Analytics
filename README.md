@@ -1,7 +1,7 @@
 # Databricks-Pyspark-Retail-Store-Analytics:
 
 Given 3 datasets related to online products sales in the year 2019 for months Jan, Feb and March for a given store. 
-Need to do data engineering using PySpark or Spark(Scala/Java) on these datasets to obtain the following objectives
+Need to do data engineering using PySpark on these datasets to obtain the following objectives
 1.	Cleanse the data removing blank rows 
 2.	Get the date on which max sales was done by product in these 3 months
 3.	Get the date on which max sales was done for all products in these 3 months
